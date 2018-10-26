@@ -53,7 +53,7 @@ When the text tool is selected, the side-bearing values are visible beneath each
 `Glyphs.intDefaults["TextModeNumbersThreshold"] = 151`
 
 ### Save Vector Screenshot of Glyphs Window
-This prompts a print dialog box for your Glyphs Window.
+This prompts a print dialog box for your Glyphs Window. Click on “PDF” in the lower left hand corner and then choose “Save as PDF.”
 
 `Font.currentTab.graphicView().window().print_(None)`
 
