@@ -3,7 +3,7 @@ A collection of resources for Glyphs App
 
 # Table of Contents
 - [Script Collections](#script-collections)
-- [Small Scripts/Hacks](#small-scripts-hacks)
+- [Small Scripts/Hacks](#small-scriptshacks)
 
 ---
 
