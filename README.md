@@ -2,7 +2,7 @@
 A collection of resources for Glyphs App
 
 # Table of Contents
-- [Tips & Tricks](#tips-tricks)
+- [Tips & Tricks](#tips--tricks)
 - [Script Collections](#script-collections)
 - [Small Scripts/Hacks](#small-scriptshacks)
 
