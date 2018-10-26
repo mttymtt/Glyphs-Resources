@@ -26,7 +26,7 @@ A collection of resources for Glyphs App
 
 ---
 
-## Small Script/Hacks
+## Small Scripts/Hacks
 These are small scripts you can run in the macro panel to do various things inside of Glyphs. Most often, they have to do with how Glyphs performs as opposed to editing your actual work.
 
 **Table of Contents**
