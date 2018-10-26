@@ -33,8 +33,6 @@ These are small scripts you can run in the macro panel to do various things insi
 - [Hide Metrics in Text View](#hide-metrics-in-text-view)
 - [Save Vector Screenshot of Glyphs Window](#save-vector-screenshot-of-glyphs-window)
 
----
-
 ### Hide Metrics in Text View
 When the text tool is selected, the side-bearing values are visible beneath each glyph. By default, these metrics are hidden when the text is viewed at 75pt or smaller. To hide them at larger sizes, run the code below in the Macro panel. In this example, the metrics will be hidden at any size under 151pt.
 
