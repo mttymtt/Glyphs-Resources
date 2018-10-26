@@ -2,6 +2,10 @@
 A collection of resources for Glyphs App
 
 # Table of Contents
+- [Script Collections](#script-collections)
+- [Small Scripts/Hacks](#small-scripts-hacks)
+
+---
 
 ## Script Collections
 - [Eli Heuer](https://github.com/eliheuer/vanilla-free-glyphs-scripts)
@@ -20,9 +24,24 @@ A collection of resources for Glyphs App
 - [Tosche](https://github.com/Tosche/Glyphs-Scripts)
 - [Wei Huang](https://github.com/weiweihuanghuang/wei-glyphs-scripts)
 
-## Hacks (This needs a better name)
+---
+
+## Small Script/Hacks
+These are small scripts you can run in the macro panel to do various things inside of Glyphs. Most often, they have to do with how Glyphs performs as opposed to editing your actual work.
+
+**Table of Contents**
+- [Hide Metrics in Text View](#hide-metrics-in-text-view)
+- [Save Vector Screenshot of Glyphs Window](#save-vector-screenshot-of-glyphs-window)
+
+---
+
 ### Hide Metrics in Text View
 When the text tool is selected, the side-bearing values are visible beneath each glyph. By default, these metrics are hidden when the text is viewed at 75pt or smaller. To hide them at larger sizes, run the code below in the Macro panel. In this example, the metrics will be hidden at any size under 151pt.
 
 `Glyphs.intDefaults["TextModeNumbersThreshold"] = 151`
+
+### Save Vector Screenshot of Glyphs Window
+This prompts a print dialog box for your Glyphs Window.
+
+`Font.currentTab.graphicView().window().print_(None)`
 
