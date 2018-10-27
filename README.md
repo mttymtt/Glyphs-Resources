@@ -12,6 +12,7 @@ A collection of resources for Glyphs App
 
 - Display All Cooridinates
   - Hold down `Control + Option + Command`
+  - Alternatively, switch to the measurement tool (L)
 - Draw Guide from Measurement Tool
   - While using the measurement tool (L), press `G` to create a guide.
 
