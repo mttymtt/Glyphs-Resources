@@ -50,27 +50,38 @@ These are small scripts you can run in the macro panel to do various things insi
 ### Change Macro Panel Font Size
 Fairly straight forward. 12 in the example below represents the font size.
 
-`Glyphs.intDefaults["MacroCodeFontSize"] = 12`
+```
+Glyphs.intDefaults["MacroCodeFontSize"] = 12
+```
 
 ### Fetch Names and Unicode values of all Glyphs in Font
 
-`font = Glyphs.font
+```
+font = Glyphs.font
+
 for i in font.glyphs:
     if i.unicode:
-        print i.name + " - " + i.unicode`
+        print i.name + " - " + i.unicode
+```
 
 ### Hide Metrics in Text View
 When the text tool is selected, the side-bearing values are visible beneath each glyph. By default, these metrics are hidden when the text is viewed at 75pt or smaller. To hide them at larger sizes, run the code below in the Macro panel. In this example, the metrics will be hidden at any size under 151pt.
 
-`Glyphs.intDefaults["TextModeNumbersThreshold"] = 151`
+```
+Glyphs.intDefaults["TextModeNumbersThreshold"] = 151
+```
 
 ### Name Guideline
 This will add a name to your guideline. Just select one guideline, then run the script in the macro panel.
 
-`Layer.selection[0].name = "Guide Name Here"`
+```
+Layer.selection[0].name = "Guide Name Here"
+```
 
 ### Save Vector Screenshot of Glyphs Window
 This prompts a print dialog box for your Glyphs Window. Click on “PDF” in the lower left hand corner and then choose “Save as PDF.”
 
-`Font.currentTab.graphicView().window().print_(None)`
+```
+Font.currentTab.graphicView().window().print_(None)
+```
 
