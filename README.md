@@ -55,7 +55,6 @@ Fairly straight forward. 12 in the example below represents the font size.
 ### Fetch Names and Unicode values of all Glyphs in Font
 
 `font = Glyphs.font
-
 for i in font.glyphs:
     if i.unicode:
         print i.name + " - " + i.unicode`
