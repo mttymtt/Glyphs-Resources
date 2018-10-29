@@ -55,6 +55,11 @@ When the text tool is selected, the side-bearing values are visible beneath each
 
 `Glyphs.intDefaults["TextModeNumbersThreshold"] = 151`
 
+### Name Guideline
+This will add a name to your guideline. Just select one guideline, then run the script in the macro panel.
+
+`Layer.selection[0].name = "Guide Name Here"`
+
 ### Save Vector Screenshot of Glyphs Window
 This prompts a print dialog box for your Glyphs Window. Click on “PDF” in the lower left hand corner and then choose “Save as PDF.”
 
