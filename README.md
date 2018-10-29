@@ -42,7 +42,7 @@ These are small scripts you can run in the macro panel to do various things insi
 
 **Table of Contents**
 - [Change Macro Panel Font Size](#change-macro-panel-font-size)
-- [Fetch Names and Unicode values of all Glyphs in Font]()
+- [Fetch Names and Unicode values of all Glyphs in Font](#fetch-names-and-unicode-values-of-all-glyphs-in-font)
 - [Hide Metrics in Text View](#hide-metrics-in-text-view)
 - [Name Guideline](#name-guideline)
 - [Save Vector Screenshot of Glyphs Window](#save-vector-screenshot-of-glyphs-window)
