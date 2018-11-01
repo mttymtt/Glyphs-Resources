@@ -10,15 +10,22 @@ A collection of resources for Glyphs App
 
 ## Tips & Tricks
 
-- **Display All Cooridinates**
-  - Hold down `Control + Option + Command`
-  - Alternatively, switch to the measurement tool (L)
-- **Draw Guide from Measurement Tool**
-  - While using the measurement tool (L), press `G` to create a guide.
-- **Regenerate Components Inside of Component Glyph**
-  - `Shift + Option + Command + C` or Glyph > Make Component Glyph
-  - Imagine you have an empty /Aacute glyph, but have drawn the /A and the /acutecomb, this will automatically generate them back into the /Aacute glyph
-  - Extra hot tip: You can select multiple glyphs at once and do this. So if you added your combining diacritic characters before drawing all of your necessary components, there’s no need to individually place components later on.
+**Table of Contents**
+- [Display All Cooridinates](#display-all-cooridinates)
+- [Draw Guide from Measurement Tool](#draw-guide-from-measurement-tool)
+- [Regenerate Components Inside of Component Glyph](#regenerate-components-inside-of-component-glyph)
+
+### Display All Cooridinates
+- Hold down `Control + Option + Command`
+- Alternatively, switch to the measurement tool (L)
+
+### Draw Guide from Measurement Tool
+- While using the measurement tool (L), press `G` to create a guide.
+
+### Regenerate Components Inside of Component Glyph
+- `Shift + Option + Command + C` or Glyph > Make Component Glyph
+- Imagine you have an empty /Aacute glyph, but have drawn the /A and the /acutecomb, this will automatically generate them back into the /Aacute glyph
+- Extra hot tip: You can select multiple glyphs at once and do this. So if you added your combining diacritic characters before drawing all of your necessary components, there’s no need to individually place components later on.
 
 ---
 
