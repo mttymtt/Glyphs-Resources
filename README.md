@@ -30,8 +30,10 @@ A collection of resources for Glyphs App
 ---
 
 ## Script Collections
+- [Alexei Vanyashin](https://github.com/alexeiva/alexei-scripts)
 - [Daniel Gamage](https://github.com/danielgamage/Glyphs-Scripts)
 - [Eli Heuer](https://github.com/eliheuer/vanilla-free-glyphs-scripts)
+- [Felipe Negrão](https://github.com/filipenegrao/glyphsapp-scripts)
 - [Georg Seifert](https://github.com/schriftgestalt/Glyphs-Scripts)
 - [Google Fonts](https://github.com/googlefonts/gf-glyphs-scripts)
 - [Guido Ferreyra](https://github.com/guidoferreyra/Glyphs-Scripts)
@@ -40,11 +42,13 @@ A collection of resources for Glyphs App
 - [Jens Kutilek](https://github.com/jenskutilek/Glyphs-Scripts)
 - [Just Another Foundry - Freemix](https://github.com/justanotherfoundry/freemix-glyphsapp)
 - [Just Another Foundry - Font Production](https://github.com/justanotherfoundry/font-production)
+- [Kyle Wayne Benson](https://github.com/kylewaynebenson/Glyphs-Scripts)
 - [Marc Foley](https://github.com/m4rc1e/mf-glyphs-scripts)
 - [Marcin Dybaś](https://github.com/dyyybek/Glyphs-Scripts)
 - [Mark Fromberg](https://github.com/Mark2Mark/Glyphsapp-Scripts-Free)
 - [Mekkablue (Rainer Erich Scheichelbauer)](https://github.com/mekkablue/Glyphs-Scripts)
 - [Mike LaGattuta](https://github.com/mjlagattuta/Glyphs-Scripts)
+- [Pedro Arilla](https://github.com/pedroarilla/glyphs-scripts)
 - [Simon Cozens](https://github.com/simoncozens/GlyphsScripts)
 - [Stephen Nixon](https://github.com/thundernixon/glyphs_scripts)
 - [Tosche](https://github.com/Tosche/Glyphs-Scripts)
