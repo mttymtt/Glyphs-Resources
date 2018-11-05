@@ -31,6 +31,7 @@ A collection of resources for Glyphs App
 
 ## Script Collections
 - [Eli Heuer](https://github.com/eliheuer/vanilla-free-glyphs-scripts)
+- [Georg Seifert](https://github.com/schriftgestalt/Glyphs-Scripts)
 - [Google Fonts](https://github.com/googlefonts/gf-glyphs-scripts)
 - [Guido Ferreyra](https://github.com/guidoferreyra/Glyphs-Scripts)
 - [Huerta Tipografica](https://github.com/huertatipografica/huertatipografica-scripts)
