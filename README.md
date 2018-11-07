@@ -61,6 +61,7 @@ These are small scripts you can run in the macro panel to do various things insi
 
 **Table of Contents**
 - [Change Macro Panel Font Size](#change-macro-panel-font-size)
+- [Export Instances as UFOs](#export-instances-as-ufos)
 - [Fetch Names and Unicode values of all Glyphs in Font](#fetch-names-and-unicode-values-of-all-glyphs-in-font)
 - [Hide Metrics in Text View](#hide-metrics-in-text-view)
 - [Name Guideline](#name-guideline)
@@ -72,6 +73,25 @@ Fairly straight forward. 12 in the example below represents the font size.
 ```
 Glyphs.intDefaults["MacroCodeFontSize"] = 12
 ```
+
+### Export Instances as UFOs
+Glyphs built-in export as UFOs option only exports the masters, so if you need to export all of the instances or certain instances as UFOs, you can use the following script:
+
+```
+import os
+for instance in Font.instances:
+	instance.generate(UFO, os.path.expanduser("~/Desktop"))
+```
+
+There are two more options `UseProductionNames (default True)` and `DecomposeSmartStuff (default True)`. In which case, the code would look like:
+
+```
+import os
+for instance in Font.instances:
+    instance.generate(UFO, os.path.expanduser("~/Desktop"), UseProductionNames=False, DecomposeSmartStuff=False)
+```
+
+
 
 ### Fetch Names and Unicode values of all Glyphs in Font
 
