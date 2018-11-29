@@ -49,6 +49,7 @@ A collection of resources for Glyphs App
 - [Mekkablue (Rainer Erich Scheichelbauer)](https://github.com/mekkablue/Glyphs-Scripts)
 - [Mike LaGattuta](https://github.com/mjlagattuta/Glyphs-Scripts)
 - [Pedro Arilla](https://github.com/pedroarilla/glyphs-scripts)
+- [Robert Janes](https://github.com/robertjanes/Glyphs-Scripts)
 - [Simon Cozens](https://github.com/simoncozens/GlyphsScripts)
 - [Stephen Nixon](https://github.com/thundernixon/glyphs_scripts)
 - [Tosche](https://github.com/Tosche/Glyphs-Scripts)
@@ -123,4 +124,3 @@ This prompts a print dialog box for your Glyphs Window. Click on “PDF” in th
 ```
 Font.currentTab.graphicView().window().print_(None)
 ```
-
