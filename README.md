@@ -33,6 +33,7 @@ A collection of resources for Glyphs App
 - [Alexei Vanyashin](https://github.com/alexeiva/alexei-scripts)
 - [Daniel Gamage](https://github.com/danielgamage/Glyphs-Scripts)
 - [Eli Heuer](https://github.com/eliheuer/vanilla-free-glyphs-scripts)
+- [Ethan Cohen](https://github.com/ethancohen/Misc-Glyphs-Scripts)
 - [Felipe Negrão](https://github.com/filipenegrao/glyphsapp-scripts)
 - [Georg Seifert](https://github.com/schriftgestalt/Glyphs-Scripts)
 - [Google Fonts](https://github.com/googlefonts/gf-glyphs-scripts)
