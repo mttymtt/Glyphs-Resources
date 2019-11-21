@@ -55,6 +55,7 @@ A collection of resources for Glyphs App
 - [Simon Cozens](https://github.com/simoncozens/GlyphsScripts)
 - [Stephen Nixon](https://github.com/thundernixon/glyphs_scripts)
 - [Tosche](https://github.com/Tosche/Glyphs-Scripts)
+- [Underscore Type](https://github.com/underscoretype/underscore-glyphs-scripts)
 - [Wei Huang](https://github.com/weiweihuanghuang/wei-glyphs-scripts)
 
 ---
