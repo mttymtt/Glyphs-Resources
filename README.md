@@ -47,6 +47,7 @@ A collection of resources for Glyphs App
 - [Marc Foley](https://github.com/m4rc1e/mf-glyphs-scripts)
 - [Marcin Dybaś](https://github.com/dyyybek/Glyphs-Scripts)
 - [Mark Fromberg](https://github.com/Mark2Mark/Glyphsapp-Scripts-Free)
+- [Matthew Smith](https://github.com/mttymtt/Glyphs-Scripts)
 - [Mekkablue (Rainer Erich Scheichelbauer)](https://github.com/mekkablue/Glyphs-Scripts)
 - [Mike LaGattuta](https://github.com/mjlagattuta/Glyphs-Scripts)
 - [Olli Meier](https://github.com/moontypespace/omScripts)
