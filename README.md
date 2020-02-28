@@ -73,7 +73,9 @@ These are small scripts you can run in the macro panel to do various things insi
 - [Save Vector Screenshot of Glyphs Window](#save-vector-screenshot-of-glyphs-window)
 
 ### Change Macro Panel Font Size
-Fairly straight forward. 12 in the example below represents the font size.
+When in the Macro Panel simply press Command–Plus sign (+) or Command–Minus sign (-)
+or
+Use the following script in the Macro Panel. 12 in the example below represents the font size.
 
 ```
 Glyphs.intDefaults["MacroCodeFontSize"] = 12
