@@ -53,6 +53,7 @@ A collection of resources for Glyphs App
 - [Olli Meier](https://github.com/moontypespace/omScripts)
 - [Pedro Arilla](https://github.com/pedroarilla/glyphs-scripts)
 - [Robert Janes](https://github.com/robertjanes/Glyphs-Scripts)
+- [Sebastian Carewe](https://github.com/eweracs/glyphs-scripts)
 - [Simon Cozens](https://github.com/simoncozens/GlyphsScripts)
 - [Stephen Nixon](https://github.com/thundernixon/glyphs_scripts)
 - [Tosche](https://github.com/Tosche/Glyphs-Scripts)
