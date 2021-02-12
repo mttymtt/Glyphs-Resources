@@ -31,6 +31,7 @@ A collection of resources for Glyphs App
 
 ## Script Collections
 - [Alexei Vanyashin](https://github.com/alexeiva/alexei-scripts)
+- [Ben Jones](https://github.com/protimient/Glyphs-Scripts)
 - [Daniel Gamage](https://github.com/danielgamage/Glyphs-Scripts)
 - [Eli Heuer](https://github.com/eliheuer/vanilla-free-glyphs-scripts)
 - [Ethan Cohen](https://github.com/ethancohen/Misc-Glyphs-Scripts)
